@@ -199,19 +199,19 @@ html
 
 ---
 
-## Day 1 Completed
+Day 1 Completed ✅
 
-**Topics covered:**
+Topics covered:
 
-* HTML introduction
-* Purpose of HTML
-* HTML vs CSS vs JavaScript
-* HTML5
-* Basic document structure
-* <!DOCTYPE html>
-* <html>
-* <head>
-  <title>
-* <body>
-* First HTML webpage
+HTML introduction
+Purpose of HTML
+HTML vs CSS vs JavaScript
+HTML5
+Basic document structure
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+<body>
+First HTML webpage
 
