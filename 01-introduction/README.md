@@ -189,7 +189,7 @@ Create a webpage containing:
 
 Example:
 
-html
+```html
 <h1>My Name</h1>
 
 <p>I am learning HTML to become a web developer.</p>
@@ -199,19 +199,18 @@ html
 
 ---
 
-Day 1 Completed ✅
+## Day 1 Completed ✅
 
-Topics covered:
+**Topics covered:**
 
-HTML introduction
-Purpose of HTML
-HTML vs CSS vs JavaScript
-HTML5
-Basic document structure
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-<body>
-First HTML webpage
-
+* HTML introduction
+* Purpose of HTML
+* HTML vs CSS vs JavaScript
+* HTML5
+* Basic document structure
+* `<!DOCTYPE html>`
+* `<html>`
+* `<head>`
+* `<title>`
+* `<body>`
+* First HTML webpage
