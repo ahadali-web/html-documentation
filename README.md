@@ -2,24 +2,18 @@
 
 A 30–45 day journey to learn and document **HTML from fundamentals to advanced concepts**.
 
-## 🎯 Goal
+##  Goal
 
 Build a complete and practical HTML documentation repository while learning HTML through daily practice.
 
-## 📚 Learning Plan
+##  Learning Plan
 
 | Day | Topic                                     | Status |
 | --- | ----------------------------------------- | ------ |
-| 01  | Introduction to HTML & Document Structure | ✅      |
-| 02  | HTML Elements & Attributes                | ⬜      |
-| 03  | Headings & Paragraphs                     | ⬜      |
-| 04  | Text Formatting                           | ⬜      |
-| 05  | Links                                     | ⬜      |
-| 06  | Images                                    | ⬜      |
-| 07  | Lists                                     | ⬜      |
-| ... | ...                                       | ⬜      |
+| 01 | Introduction to HTML & Document Structure | ✅ |
+| 02 | HTML Elements & Attributes | ✅ |
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 complete-html-documentation/
@@ -35,19 +29,19 @@ complete-html-documentation/
 └── assets/
 ```
 
-## 🚀 Progress
+##  Progress
 
 **Day 1 / 30–45 completed**
 
 I am documenting HTML step by step and practicing each topic with real code examples.
 
-## 🛠️ Technologies
+##  Technologies
 
 * HTML5
 * Git
 * GitHub
 
-## 🎯 Long-Term Goal
+##  Long-Term Goal
 
 Build a strong foundation in HTML and continue toward professional Full-Stack Web Development.
 
