@@ -12,6 +12,8 @@ Build a complete and practical HTML documentation repository while learning HTML
 | --- | ----------------------------------------- | ------ |
 | 01 | Introduction to HTML & Document Structure | ✅ |
 | 02 | HTML Elements & Attributes | ✅ |
+| 03 | HTML Headings & Paragraphs | ✅ |
+| 04 | HTML Text Formatting | ✅ |
 
 ##  Repository Structure
 
@@ -19,13 +21,12 @@ Build a complete and practical HTML documentation repository while learning HTML
 complete-html-documentation/
 │
 ├── 01-introduction/
-│   ├── README.md
-│   └── index.html
 │
 ├── 02-elements-and-attributes/
 │
 ├── 03-headings-and-paragraphs/
 │
+├── 04-text-formatting/
 └── assets/
 ```
 
